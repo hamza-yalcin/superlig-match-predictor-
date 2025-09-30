@@ -1,0 +1,123 @@
+date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match_report,notes,sh,sot,dist,fk,pk,pkatt,season,team
+2025-08-08,21:30 (14:30),Süper Lig,1,Fri,Gaziantep Stadyumu,W,3,0,Gaziantep FK,,,,,,,Ali Şansalan,,,,,,,,,2025-2026,Galatasaray
+2025-08-08,21:30 (14:30),Süper Lig,1,Fri,Gaziantep Stadyumu,L,0,3,Galatasaray,,,,,,,Ali Şansalan,,,,,,,,,2025-2026,Gaziantep FK
+2025-08-09,19:00 (12:00),Süper Lig,1,Sat,Yeni 19 Mayıs Stadyumu,L,1,2,Samsunspor,,,,,,,Ali Yılmaz,,,,,,,,,2025-2026,Gençlerbirliği
+2025-08-09,19:00 (12:00),Süper Lig,1,Sat,Yeni 19 Mayıs Stadyumu,W,2,1,Gençlerbirliği,,,,,,,Ali Yılmaz,,,,,,,,,2025-2026,Samsunspor
+2025-08-09,21:30 (14:30),Süper Lig,1,Sat,Corendon Airlines Park,W,2,1,Kasımpaşa,,,,,,,Alper Akarsu,,,,,,,,,2025-2026,Antalyaspor
+2025-08-09,21:30 (14:30),Süper Lig,1,Sat,Corendon Airlines Park,L,1,2,Antalyaspor,,,,,,,Alper Akarsu,,,,,,,,,2025-2026,Kasımpaşa
+2025-08-10,19:00 (12:00),Süper Lig,1,Sun,Çaykur Didi Stadyumu,W,3,0,Rizespor,,,,,,,Mehmet Türkmen,,,,,,,,,2025-2026,Göztepe
+2025-08-10,19:00 (12:00),Süper Lig,1,Sun,Çaykur Didi Stadyumu,L,0,3,Göztepe,,,,,,,Mehmet Türkmen,,,,,,,,,2025-2026,Rizespor
+2025-08-10,21:30 (14:30),Süper Lig,1,Sun,Pendik Stadyumu,L,1,4,Konyaspor,,,,,,,Batuhan Kolak,,,,,,,,,2025-2026,Eyüpspor
+2025-08-10,21:30 (14:30),Süper Lig,1,Sun,Pendik Stadyumu,W,4,1,Eyüpspor,,,,,,,Batuhan Kolak,,,,,,,,,2025-2026,Konyaspor
+2025-08-11,21:30 (14:30),Süper Lig,1,Mon,Papara Park Stadyumu,L,0,1,Trabzonspor,,,,,,,Çağdaş Altay,,,,,,,,,2025-2026,Kocaelispor
+2025-08-11,21:30 (14:30),Süper Lig,1,Mon,Papara Park Stadyumu,W,1,0,Kocaelispor,,,,,,,Çağdaş Altay,,,,,,,,,2025-2026,Trabzonspor
+2025-08-15,21:30 (14:30),Süper Lig,2,Fri,RAMS Park,L,0,3,Galatasaray,,,,,,,Ozan Ergün,,,,,,,,,2025-2026,Fatih Karagümrük
+2025-08-15,21:30 (14:30),Süper Lig,2,Fri,RAMS Park,W,3,0,Fatih Karagümrük,,,,,,,Ozan Ergün,,,,,,,,,2025-2026,Galatasaray
+2025-08-16,19:00 (12:00),Süper Lig,2,Sat,Yıldız Entegre Kocaeli Stadyumu,L,0,1,Samsunspor,,,,,,,Zorbay Küçük,,,,,,,,,2025-2026,Kocaelispor
+2025-08-16,19:00 (12:00),Süper Lig,2,Sat,Yıldız Entegre Kocaeli Stadyumu,W,1,0,Kocaelispor,,,,,,,Zorbay Küçük,,,,,,,,,2025-2026,Samsunspor
+2025-08-16,21:30 (14:30),Süper Lig,2,Sat,GAİN Park Stadyumu,D,0,0,Rizespor,,,,,,,Atilla Karaoğlan,,,,,,,,,2025-2026,Alanyaspor
+2025-08-16,21:30 (14:30),Süper Lig,2,Sat,Gürsel Aksel Stadyumu,D,0,0,Göztepe,,,,,,,Yasin Kol,,,,,,,,,2025-2026,Fenerbahçe
+2025-08-16,21:30 (14:30),Süper Lig,2,Sat,Gürsel Aksel Stadyumu,D,0,0,Fenerbahçe,,,,,,,Yasin Kol,,,,,,,,,2025-2026,Göztepe
+2025-08-16,21:30 (14:30),Süper Lig,2,Sat,GAİN Park Stadyumu,D,0,0,Alanyaspor,,,,,,,Atilla Karaoğlan,,,,,,,,,2025-2026,Rizespor
+2025-08-17,19:00 (12:00),Süper Lig,2,Sun,Eryaman Stadyumu,W,1,0,Gençlerbirliği,,,,,,,Oğuzhan Aksu,,,,,,,,,2025-2026,Antalyaspor
+2025-08-17,19:00 (12:00),Süper Lig,2,Sun,Konya Büyükşehir Stadı,L,0,3,Konyaspor,,,,,,,Adnan Deniz Kayatepe,,,,,,,,,2025-2026,Gaziantep FK
+2025-08-17,19:00 (12:00),Süper Lig,2,Sun,Eryaman Stadyumu,L,0,1,Antalyaspor,,,,,,,Oğuzhan Aksu,,,,,,,,,2025-2026,Gençlerbirliği
+2025-08-17,19:00 (12:00),Süper Lig,2,Sun,Konya Büyükşehir Stadı,W,3,0,Gaziantep FK,,,,,,,Adnan Deniz Kayatepe,,,,,,,,,2025-2026,Konyaspor
+2025-08-17,21:30 (14:30),Süper Lig,2,Sun,Başakşehir Fatih Terim Stadium,D,1,1,Kayserispor,,,,,,,Kadir Sağlam,,,,,,,,,2025-2026,Başakşehir
+2025-08-17,21:30 (14:30),Süper Lig,2,Sun,Tüpraş Stadyumu,W,2,1,Eyüpspor,,,,,,,Halil Umut Meler,,,,,,,,,2025-2026,Beşiktaş
+2025-08-17,21:30 (14:30),Süper Lig,2,Sun,Tüpraş Stadyumu,L,1,2,Beşiktaş,,,,,,,Halil Umut Meler,,,,,,,,,2025-2026,Eyüpspor
+2025-08-17,21:30 (14:30),Süper Lig,2,Sun,Başakşehir Fatih Terim Stadium,D,1,1,Başakşehir,,,,,,,Kadir Sağlam,,,,,,,,,2025-2026,Kayserispor
+2025-08-18,21:30 (14:30),Süper Lig,2,Mon,Recep Tayyip Erdoğan Stadyumu,L,0,1,Trabzonspor,,,,,,,Cihan Aydın,,,,,,,,,2025-2026,Kasımpaşa
+2025-08-18,21:30 (14:30),Süper Lig,2,Mon,Recep Tayyip Erdoğan Stadyumu,W,1,0,Kasımpaşa,,,,,,,Cihan Aydın,,,,,,,,,2025-2026,Trabzonspor
+2025-08-22,21:30 (14:30),Süper Lig,3,Fri,Atatürk Olimpiyat Stadı,L,0,2,Göztepe,,,,,,,Batuhan Kolak,,,,,,,,,2025-2026,Fatih Karagümrük
+2025-08-22,21:30 (14:30),Süper Lig,3,Fri,Atatürk Olimpiyat Stadı,W,2,0,Fatih Karagümrük,,,,,,,Batuhan Kolak,,,,,,,,,2025-2026,Göztepe
+2025-08-23,21:30 (14:30),Süper Lig,3,Sat,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,W,3,1,Kocaelispor,,,,,,,Mehmet Türkmen,,,,,,,,,2025-2026,Fenerbahçe
+2025-08-23,21:30 (14:30),Süper Lig,3,Sat,Gaziantep Stadyumu,W,2,1,Gençlerbirliği,,,,,,,Atilla Karaoğlan,,,,,,,,,2025-2026,Gaziantep FK
+2025-08-23,21:30 (14:30),Süper Lig,3,Sat,Gaziantep Stadyumu,L,1,2,Gaziantep FK,,,,,,,Atilla Karaoğlan,,,,,,,,,2025-2026,Gençlerbirliği
+2025-08-23,21:30 (14:30),Süper Lig,3,Sat,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,L,1,3,Fenerbahçe,,,,,,,Mehmet Türkmen,,,,,,,,,2025-2026,Kocaelispor
+2025-08-24,19:00 (12:00),Süper Lig,3,Sun,Papara Park Stadyumu,L,0,1,Trabzonspor,,,,,,,Ali Yılmaz,,,,,,,,,2025-2026,Antalyaspor
+2025-08-24,19:00 (12:00),Süper Lig,3,Sun,Papara Park Stadyumu,W,1,0,Antalyaspor,,,,,,,Ali Yılmaz,,,,,,,,,2025-2026,Trabzonspor
+2025-08-24,21:30 (14:30),Süper Lig,3,Sun,RHG Enertürk Enerji Stadyumu,W,4,0,Kayserispor,,,,,,,Alper Akarsu,,,,,,,,,2025-2026,Galatasaray
+2025-08-24,21:30 (14:30),Süper Lig,3,Sun,RHG Enertürk Enerji Stadyumu,L,0,4,Galatasaray,,,,,,,Alper Akarsu,,,,,,,,,2025-2026,Kayserispor
+2025-08-25,19:00 (12:00),Süper Lig,3,Mon,Pendik Stadyumu,L,1,2,Eyüpspor,,,,,,,Arda Kardeşler,,,,,,,,,2025-2026,Alanyaspor
+2025-08-25,19:00 (12:00),Süper Lig,3,Mon,Pendik Stadyumu,W,2,1,Alanyaspor,,,,,,,Arda Kardeşler,,,,,,,,,2025-2026,Eyüpspor
+2025-08-29,21:30 (14:30),Süper Lig,4,Fri,Gürsel Aksel Stadyumu,D,1,1,Konyaspor,,,,,,,Ali Şansalan,,,,,,,,,2025-2026,Göztepe
+2025-08-29,21:30 (14:30),Süper Lig,4,Fri,Gürsel Aksel Stadyumu,D,1,1,Göztepe,,,,,,,Ali Şansalan,,,,,,,,,2025-2026,Konyaspor
+2025-08-30,19:00 (12:00),Süper Lig,4,Sat,Recep Tayyip Erdoğan Stadyumu,W,3,2,Kasımpaşa,,,,,,,Ozan Ergün,,,,,,,,,2025-2026,Gaziantep FK
+2025-08-30,19:00 (12:00),Süper Lig,4,Sat,Recep Tayyip Erdoğan Stadyumu,L,2,3,Gaziantep FK,,,,,,,Ozan Ergün,,,,,,,,,2025-2026,Kasımpaşa
+2025-08-30,19:00 (12:00),Süper Lig,4,Sat,Yıldız Entegre Kocaeli Stadyumu,D,1,1,Kocaelispor,,,,,,,Yasin Kol,,,,,,,,,2025-2026,Kayserispor
+2025-08-30,19:00 (12:00),Süper Lig,4,Sat,Yıldız Entegre Kocaeli Stadyumu,D,1,1,Kayserispor,,,,,,,Yasin Kol,,,,,,,,,2025-2026,Kocaelispor
+2025-08-30,21:30 (14:30),Süper Lig,4,Sat,Corendon Airlines Park,L,1,2,Fatih Karagümrük,,,,,,,Cihan Aydın,,,,,,,,,2025-2026,Antalyaspor
+2025-08-30,21:30 (14:30),Süper Lig,4,Sat,Corendon Airlines Park,W,2,1,Antalyaspor,,,,,,,Cihan Aydın,,,,,,,,,2025-2026,Fatih Karagümrük
+2025-08-30,21:30 (14:30),Süper Lig,4,Sat,RAMS Park,W,3,1,Rizespor,,,,,,,Ali Yılmaz,,,,,,,,,2025-2026,Galatasaray
+2025-08-30,21:30 (14:30),Süper Lig,4,Sat,RAMS Park,L,1,3,Galatasaray,,,,,,,Ali Yılmaz,,,,,,,,,2025-2026,Rizespor
+2025-08-31,19:00 (12:00),Süper Lig,4,Sun,Başakşehir Fatih Terim Stadium,D,0,0,Eyüpspor,,,,,,,Zorbay Küçük,,,,,,,,,2025-2026,Başakşehir
+2025-08-31,19:00 (12:00),Süper Lig,4,Sun,Başakşehir Fatih Terim Stadium,D,0,0,Başakşehir,,,,,,,Zorbay Küçük,,,,,,,,,2025-2026,Eyüpspor
+2025-08-31,19:00 (12:00),Süper Lig,4,Sun,Eryaman Stadyumu,W,3,1,Gençlerbirliği,,,,,,,Çağdaş Altay,,,,,,,,,2025-2026,Fenerbahçe
+2025-08-31,19:00 (12:00),Süper Lig,4,Sun,Eryaman Stadyumu,L,1,3,Fenerbahçe,,,,,,,Çağdaş Altay,,,,,,,,,2025-2026,Gençlerbirliği
+2025-08-31,21:30 (14:30),Süper Lig,4,Sun,GAİN Park Stadyumu,W,2,0,Beşiktaş,,,,,,,Kadir Sağlam,,,,,,,,,2025-2026,Alanyaspor
+2025-08-31,21:30 (14:30),Süper Lig,4,Sun,GAİN Park Stadyumu,L,0,2,Alanyaspor,,,,,,,Kadir Sağlam,,,,,,,,,2025-2026,Beşiktaş
+2025-08-31,21:30 (14:30),Süper Lig,4,Sun,Papara Park Stadyumu,D,1,1,Trabzonspor,,,,,,,Adnan Deniz Kayatepe,,,,,,,,,2025-2026,Samsunspor
+2025-08-31,21:30 (14:30),Süper Lig,4,Sun,Papara Park Stadyumu,D,1,1,Samsunspor,,,,,,,Adnan Deniz Kayatepe,,,,,,,,,2025-2026,Trabzonspor
+2025-09-13,17:00 (10:00),Süper Lig,5,Sat,Yeni 19 Mayıs Stadyumu,W,2,1,Samsunspor,,,,,,,Arda Kardeşler,,,,,,,,,2025-2026,Antalyaspor
+2025-09-13,17:00 (10:00),Süper Lig,5,Sat,Atatürk Olimpiyat Stadı,L,0,2,Galatasaray,,,,,,,Batuhan Kolak,,,,,,,,,2025-2026,Eyüpspor
+2025-09-13,17:00 (10:00),Süper Lig,5,Sat,Başakşehir Fatih Terim Stadium,L,0,1,Kasımpaşa,,,,,,,Oğuzhan Aksu,,,,,,,,,2025-2026,Fatih Karagümrük
+2025-09-13,17:00 (10:00),Süper Lig,5,Sat,Atatürk Olimpiyat Stadı,W,2,0,Eyüpspor,,,,,,,Batuhan Kolak,,,,,,,,,2025-2026,Galatasaray
+2025-09-13,17:00 (10:00),Süper Lig,5,Sat,Başakşehir Fatih Terim Stadium,W,1,0,Fatih Karagümrük,,,,,,,Oğuzhan Aksu,,,,,,,,,2025-2026,Kasımpaşa
+2025-09-13,17:00 (10:00),Süper Lig,5,Sat,Yeni 19 Mayıs Stadyumu,L,1,2,Antalyaspor,,,,,,,Arda Kardeşler,,,,,,,,,2025-2026,Samsunspor
+2025-09-13,20:00 (13:00),Süper Lig,5,Sat,Konya Büyükşehir Stadı,W,2,1,Konyaspor,,,,,,,Halil Umut Meler,,,,,,,,,2025-2026,Alanyaspor
+2025-09-13,20:00 (13:00),Süper Lig,5,Sat,Tüpraş Stadyumu,L,1,2,Beşiktaş,,,,,,,Alper Akarsu,,,,,,,,,2025-2026,Başakşehir
+2025-09-13,20:00 (13:00),Süper Lig,5,Sat,Tüpraş Stadyumu,W,2,1,Başakşehir,,,,,,,Alper Akarsu,,,,,,,,,2025-2026,Beşiktaş
+2025-09-13,20:00 (13:00),Süper Lig,5,Sat,Konya Büyükşehir Stadı,L,1,2,Alanyaspor,,,,,,,Halil Umut Meler,,,,,,,,,2025-2026,Konyaspor
+2025-09-14,17:00 (10:00),Süper Lig,5,Sun,RHG Enertürk Enerji Stadyumu,D,1,1,Kayserispor,,,,,,,Atilla Karaoğlan,,,,,,,,,2025-2026,Göztepe
+2025-09-14,17:00 (10:00),Süper Lig,5,Sun,RHG Enertürk Enerji Stadyumu,D,1,1,Göztepe,,,,,,,Atilla Karaoğlan,,,,,,,,,2025-2026,Kayserispor
+2025-09-14,19:00 (12:00),Süper Lig,5,Sun,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,W,1,0,Trabzonspor,,,,,,,Ozan Ergün,,,,,,,,,2025-2026,Fenerbahçe
+2025-09-14,19:00 (12:00),Süper Lig,5,Sun,Gaziantep Stadyumu,W,2,0,Kocaelispor,,,,,,,Yiğit Arslan,,,,,,,,,2025-2026,Gaziantep FK
+2025-09-14,19:00 (12:00),Süper Lig,5,Sun,Gaziantep Stadyumu,L,0,2,Gaziantep FK,,,,,,,Yiğit Arslan,,,,,,,,,2025-2026,Kocaelispor
+2025-09-14,19:00 (12:00),Süper Lig,5,Sun,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,L,0,1,Fenerbahçe,,,,,,,Ozan Ergün,,,,,,,,,2025-2026,Trabzonspor
+2025-09-15,20:00 (13:00),Süper Lig,5,Mon,Çaykur Didi Stadyumu,L,0,1,Rizespor,,,,,,,Zorbay Küçük,,,,,,,,,2025-2026,Gençlerbirliği
+2025-09-15,20:00 (13:00),Süper Lig,5,Mon,Çaykur Didi Stadyumu,W,1,0,Gençlerbirliği,,,,,,,Zorbay Küçük,,,,,,,,,2025-2026,Rizespor
+2025-09-17,20:00 (13:00),Süper Lig,1,Wed,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,D,2,2,Fenerbahçe,,,,,,,Cihan Aydın,,,,,,,,,2025-2026,Alanyaspor
+2025-09-17,20:00 (13:00),Süper Lig,1,Wed,Atatürk Olimpiyat Stadı,W,2,0,Fatih Karagümrük,,,,,,,Ali Yılmaz,,,,,,,,,2025-2026,Başakşehir
+2025-09-17,20:00 (13:00),Süper Lig,1,Wed,Atatürk Olimpiyat Stadı,L,0,2,Başakşehir,,,,,,,Ali Yılmaz,,,,,,,,,2025-2026,Fatih Karagümrük
+2025-09-17,20:00 (13:00),Süper Lig,1,Wed,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,D,2,2,Alanyaspor,,,,,,,Cihan Aydın,,,,,,,,,2025-2026,Fenerbahçe
+2025-09-17,20:00 (13:00),Süper Lig,3,Wed,Yeni 19 Mayıs Stadyumu,D,0,0,Samsunspor,,,,,,,Ali Şansalan,,,,,,,,,2025-2026,Kasımpaşa
+2025-09-17,20:00 (13:00),Süper Lig,3,Wed,Yeni 19 Mayıs Stadyumu,D,0,0,Kasımpaşa,,,,,,,Ali Şansalan,,,,,,,,,2025-2026,Samsunspor
+2025-09-19,20:00 (13:00),Süper Lig,6,Fri,Gürsel Aksel Stadyumu,L,0,3,Göztepe,,,,,,,Mehmet Türkmen,,,,,,,,,2025-2026,Beşiktaş
+2025-09-19,20:00 (13:00),Süper Lig,6,Fri,Gürsel Aksel Stadyumu,W,3,0,Beşiktaş,,,,,,,Mehmet Türkmen,,,,,,,,,2025-2026,Göztepe
+2025-09-20,17:00 (10:00),Süper Lig,6,Sat,Eryaman Stadyumu,L,0,1,Gençlerbirliği,,,,,,,Ömer Tolga Güldibi,,,,,,,,,2025-2026,Eyüpspor
+2025-09-20,17:00 (10:00),Süper Lig,6,Sat,Eryaman Stadyumu,W,1,0,Eyüpspor,,,,,,,Ömer Tolga Güldibi,,,,,,,,,2025-2026,Gençlerbirliği
+2025-09-20,20:00 (13:00),Süper Lig,6,Sat,Corendon Airlines Park,D,1,1,Kayserispor,,,,,,,Kadir Sağlam,,,,,,,,,2025-2026,Antalyaspor
+2025-09-20,20:00 (13:00),Süper Lig,6,Sat,Papara Park Stadyumu,D,1,1,Trabzonspor,,,,,,,Arda Kardeşler,,,,,,,,,2025-2026,Gaziantep FK
+2025-09-20,20:00 (13:00),Süper Lig,6,Sat,Corendon Airlines Park,D,1,1,Antalyaspor,,,,,,,Kadir Sağlam,,,,,,,,,2025-2026,Kayserispor
+2025-09-20,20:00 (13:00),Süper Lig,6,Sat,Papara Park Stadyumu,D,1,1,Gaziantep FK,,,,,,,Arda Kardeşler,,,,,,,,,2025-2026,Trabzonspor
+2025-09-21,17:00 (10:00),Süper Lig,6,Sun,Başakşehir Fatih Terim Stadium,D,1,1,Başakşehir,,,,,,,Adnan Deniz Kayatepe,,,,,,,,,2025-2026,Alanyaspor
+2025-09-21,17:00 (10:00),Süper Lig,6,Sun,Başakşehir Fatih Terim Stadium,D,1,1,Alanyaspor,,,,,,,Adnan Deniz Kayatepe,,,,,,,,,2025-2026,Başakşehir
+2025-09-21,17:00 (10:00),Süper Lig,6,Sun,Yıldız Entegre Kocaeli Stadyumu,D,1,1,Rizespor,,,,,,,Umit Öztürk,,,,,,,,,2025-2026,Kocaelispor
+2025-09-21,17:00 (10:00),Süper Lig,6,Sun,Yıldız Entegre Kocaeli Stadyumu,D,1,1,Kocaelispor,,,,,,,Umit Öztürk,,,,,,,,,2025-2026,Rizespor
+2025-09-21,20:00 (13:00),Süper Lig,6,Sun,Yeni 19 Mayıs Stadyumu,L,2,3,Samsunspor,,,,,,,Çağdaş Altay,,,,,,,,,2025-2026,Fatih Karagümrük
+2025-09-21,20:00 (13:00),Süper Lig,6,Sun,Recep Tayyip Erdoğan Stadyumu,D,1,1,Kasımpaşa,,,,,,,Oğuzhan Çakir,,,,,,,,,2025-2026,Fenerbahçe
+2025-09-21,20:00 (13:00),Süper Lig,6,Sun,Recep Tayyip Erdoğan Stadyumu,D,1,1,Fenerbahçe,,,,,,,Oğuzhan Çakir,,,,,,,,,2025-2026,Kasımpaşa
+2025-09-21,20:00 (13:00),Süper Lig,6,Sun,Yeni 19 Mayıs Stadyumu,W,3,2,Fatih Karagümrük,,,,,,,Çağdaş Altay,,,,,,,,,2025-2026,Samsunspor
+2025-09-22,20:00 (13:00),Süper Lig,6,Mon,RAMS Park,W,3,1,Konyaspor,,,,,,,Yasin Kol,,,,,,,,,2025-2026,Galatasaray
+2025-09-22,20:00 (13:00),Süper Lig,6,Mon,RAMS Park,L,1,3,Galatasaray,,,,,,,Yasin Kol,,,,,,,,,2025-2026,Konyaspor
+2025-09-24,20:00 (13:00),Süper Lig,1,Wed,RHG Enertürk Enerji Stadyumu,W,4,0,Kayserispor,,,,,,,Adnan Deniz Kayatepe,,,,,,,,,2025-2026,Beşiktaş
+2025-09-24,20:00 (13:00),Süper Lig,1,Wed,RHG Enertürk Enerji Stadyumu,L,0,4,Beşiktaş,,,,,,,Adnan Deniz Kayatepe,,,,,,,,,2025-2026,Kayserispor
+2025-09-26,20:00 (13:00),Süper Lig,7,Fri,GAİN Park Stadyumu,L,0,1,Galatasaray,,,,,,,Zorbay Küçük,,,,,,,,,2025-2026,Alanyaspor
+2025-09-26,20:00 (13:00),Süper Lig,7,Fri,GAİN Park Stadyumu,W,1,0,Alanyaspor,,,,,,,Zorbay Küçük,,,,,,,,,2025-2026,Galatasaray
+2025-09-27,17:00 (10:00),Süper Lig,7,Sat,Recep Tayyip Erdoğan Stadyumu,D,0,0,Göztepe,,,,,,,Kadir Sağlam,,,,,,,,,2025-2026,Eyüpspor
+2025-09-27,17:00 (10:00),Süper Lig,7,Sat,Gaziantep Stadyumu,D,2,2,Samsunspor,,,,,,,Batuhan Kolak,,,,,,,,,2025-2026,Gaziantep FK
+2025-09-27,17:00 (10:00),Süper Lig,7,Sat,Recep Tayyip Erdoğan Stadyumu,D,0,0,Eyüpspor,,,,,,,Kadir Sağlam,,,,,,,,,2025-2026,Göztepe
+2025-09-27,17:00 (10:00),Süper Lig,7,Sat,Gaziantep Stadyumu,D,2,2,Gaziantep FK,,,,,,,Batuhan Kolak,,,,,,,,,2025-2026,Samsunspor
+2025-09-27,20:00 (13:00),Süper Lig,7,Sat,Atatürk Olimpiyat Stadı,L,3,4,Trabzonspor,,,,,,,Mehmet Türkmen,,,,,,,,,2025-2026,Fatih Karagümrük
+2025-09-27,20:00 (13:00),Süper Lig,7,Sat,Atatürk Olimpiyat Stadı,W,4,3,Fatih Karagümrük,,,,,,,Mehmet Türkmen,,,,,,,,,2025-2026,Trabzonspor
+2025-09-28,17:00 (10:00),Süper Lig,7,Sun,Konya Büyükşehir Stadı,L,1,2,Konyaspor,,,,,,,Oğuzhan Çakir,,,,,,,,,2025-2026,Başakşehir
+2025-09-28,17:00 (10:00),Süper Lig,7,Sun,Çaykur Didi Stadyumu,W,2,1,Rizespor,,,,,,,Çağdaş Altay,,,,,,,,,2025-2026,Kasımpaşa
+2025-09-28,17:00 (10:00),Süper Lig,7,Sun,Konya Büyükşehir Stadı,W,2,1,Başakşehir,,,,,,,Oğuzhan Çakir,,,,,,,,,2025-2026,Konyaspor
+2025-09-28,17:00 (10:00),Süper Lig,7,Sun,Çaykur Didi Stadyumu,L,1,2,Kasımpaşa,,,,,,,Çağdaş Altay,,,,,,,,,2025-2026,Rizespor
+2025-09-28,20:00 (13:00),Süper Lig,7,Sun,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,L,0,2,Fenerbahçe,,,,,,,Ali Yılmaz,,,,,,,,,2025-2026,Antalyaspor
+2025-09-28,20:00 (13:00),Süper Lig,7,Sun,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,W,2,0,Antalyaspor,,,,,,,Ali Yılmaz,,,,,,,,,2025-2026,Fenerbahçe
+2025-09-28,20:00 (13:00),Süper Lig,7,Sun,RHG Enertürk Enerji Stadyumu,D,1,1,Kayserispor,,,,,,,Yiğit Arslan,,,,,,,,,2025-2026,Gençlerbirliği
+2025-09-28,20:00 (13:00),Süper Lig,7,Sun,RHG Enertürk Enerji Stadyumu,D,1,1,Gençlerbirliği,,,,,,,Yiğit Arslan,,,,,,,,,2025-2026,Kayserispor
+2025-09-29,20:00 (13:00),Süper Lig,7,Mon,Tüpraş Stadyumu,W,3,1,Kocaelispor,,,,,,,Ali Şansalan,,,,,,,,,2025-2026,Beşiktaş
+2025-09-29,20:00 (13:00),Süper Lig,7,Mon,Tüpraş Stadyumu,L,1,3,Beşiktaş,,,,,,,Ali Şansalan,,,,,,,,,2025-2026,Kocaelispor
