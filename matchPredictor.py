@@ -1,18 +1,25 @@
 import pandas as pd 
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import confusion_matrix 
+from pathlib import Path    
+import json
 
-matches = pd.read_csv("superlig_2025_26_matches_played.csv")
+played = pd.read_csv("superlig_2025_26_matches_played.csv")
+full   = pd.read_csv("superlig_2025_26.csv")
 
 
-matches["date"] = pd.to_datetime(matches["date"], errors="coerce")
-
-matches["time"] = matches["time"].astype(str).str.strip().str.replace(";", ":", regex=False)
-matches["hour"] = pd.to_datetime(matches["time"], format="%H:%M", errors="coerce").dt.hour.astype("Int64")
-
-matches["day_num"] = matches["date"].dt.dayofweek.astype("Int64")
+for df in [played, full]:
+    df["date"] = pd.to_datetime(df["date"], errors="coerce")
+    df["time"] = df["time"].astype(str).str.strip().str.replace(";", ":", regex=False)
+    df["hour"] = pd.to_datetime(df["time"], format="%H:%M", errors="coerce").dt.hour.fillna(0).astype(int)
+    df["day_num"] = df["date"].dt.dayofweek
+    df["month"] = df["date"].dt.month
 
 label_map = {"L":0, "D":1, "W": 2}
-matches["target"] = (
-    matches["result"].astype(str).str.strip().str.upper().map(label_map).astype("Int64"))
+played["target"] = played["result"].astype(str).str.strip().str.upper().map(label_map)
 
-from sklearn.ensemble import RandomForestClassifier 
+
+teams = pd.concat([played["team"],played["opponent"], full["team"], full["opponent"]]).dropna().unique()
+team_codes = {t:i for i,t in enumerate(sorted(teams))}
+
 
